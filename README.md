@@ -21,6 +21,8 @@ Relational SQL Warehouse (SQLite3: telco_customers table)
         ▼
 Power BI Interactive KPI Dashboard (DAX Measures & Retention Action Matrix)
 ```
+## Power BI Executive Dashboard Preview
+![Telco Churn Power BI Dashboard](dashboard_preview.png)
 
 ## Key SQL & BI Findings
 - **Executive Revenue & Churn KPIs:** Across `7,032` active and churned accounts (`$455,661.00` total MRR), overall customer churn is **26.58%** (`1,869` churned customers), representing **$139,130.85/month** (`30.53%`) in lost recurring revenue.
